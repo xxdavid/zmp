@@ -1,0 +1,68 @@
+\documentclass[12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[T1, IL2]{fontenc}
+\usepackage{url}
+\usepackage[czech]{babel}
+\usepackage{xspace}
+\usepackage{color}
+\usepackage{listings}
+%\usepackage{algorithmic}
+%\usepackage{algorithm}
+\usepackage{amsfonts}
+% \usepackage{subfigure}
+% \usepackage[small,hang]{caption2}	%figure caption
+% \usepackage{multirow}
+
+
+\usepackage[
+  backend=biber,
+  style=numeric,
+  sorting=none
+]{biblatex}
+
+\addbibresource{./../bibliography.bib}
+
+
+
+\usepackage[colorlinks=false,
+ pdfpagemode={UseOutlines},
+ bookmarks=false,
+ pdfstartview={FitH}
+ ]{hyperref}
+
+ \title{Vliv pornografie na člověka a na společnost}
+ \author{David Pavlík}
+
+\begin{document}
+
+	\lstset{ %
+	basicstyle=\scriptsize,       % the size of the fonts that are used for the code
+	showstringspaces=false,         % underline spaces within strings
+	numbers=left,                   % where to put the line-numbers
+	numberstyle=\tiny,      % the size of the fonts that are used for the line-numbers
+	stepnumber=1,                   % the step between two line-numbers. If it's 1 each line will be numbered
+	numbersep=5pt,                  % how far the line-numbers are from the code
+	backgroundcolor=\color{white},  % choose the background color
+	showspaces=false,               % show spaces within strings adding particular underscores
+	showtabs=false,                 % show tabs within strings adding particular underscores
+	escapeinside={\%*}{*)}          % if you want to add a comment within your code
+	}
+
+
+
+	\setcounter{secnumdepth}{3}             %number of section to 4
+	\pagenumbering{arabic}                  %start arabic pagination from 1
+	\setcounter{tocdepth}{2}                %number of section in table of contents greater then 33
+
+	\maketitle
+
+	\tableofcontents
+
+
+	%\hyphenation{Automatica}
+
+
+	%<<<paste body here>>>
+
+	\printbibliography
+\end{document}
