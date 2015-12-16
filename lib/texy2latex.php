@@ -77,7 +77,7 @@ class Texy2Latex {
 }
 
 $texy2latex = new Texy2Latex();
-$sourceFile = __DIR__ . '/../zmp.texy';
+$sourceFile = __DIR__ . '/../content.texy';
 $source = file_get_contents($sourceFile);
 $latex = $texy2latex->convert($source);
 $latexFile = __DIR__ . '/../latex/zmp.tex';
