@@ -1,4 +1,4 @@
-\documentclass[12pt]{report}
+\documentclass[12pt,oneside]{fithesis3}
 \usepackage[utf8]{inputenc}
 \usepackage[T1, IL2]{fontenc}
 \usepackage{url}
@@ -30,8 +30,21 @@
  pdfstartview={FitH}
  ]{hyperref}
 
- \title{Vliv pornografie na člověka a společnost}
- \author{David Pavlík}
+
+
+%\thesistitle{Vliv pornografie na člověka a společnost}
+\thesissetup{
+    author = David Pavlík,
+    advisor = Eduard Pataki,
+    title = Vliv pornografie na člověka a společnost,
+    titleEn = The effects of pornography on human and society,
+    gender = m,
+    university = mu,
+    faculty = jaroska,
+    type = zmp,
+}
+
+
 
 \begin{document}
 
@@ -49,24 +62,9 @@
 	}
 
 
-
-	\setcounter{secnumdepth}{3}             %number of section to 4
-	\pagenumbering{arabic}                  %start arabic pagination from 1
-	\setcounter{tocdepth}{2}                %number of section in table of contents greater then 33
-
-	\maketitle
-
-    \cleardoublepage
-    \pagenumbering{gobble}
-    \tableofcontents
-    \cleardoublepage
-    \pagenumbering{arabic}
-
-
-	%\hyphenation{Automatica}
-
-
 	%<<<paste body here>>>
 
 	\printbibliography
+
+
 \end{document}
