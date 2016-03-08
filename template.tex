@@ -12,17 +12,31 @@
 % \usepackage{subfigure}
 % \usepackage[small,hang]{caption2}	%figure caption
 % \usepackage{multirow}
+\usepackage{chngcntr}
 
 
 \usepackage[
   backend=biber,
-  style=numeric,
-  sorting=none
+  style=iso-numeric,
+  sorting=none,
+  sortlocale=cs_CZ,
+  bibencoding=UTF8
 ]{biblatex}
 
-\addbibresource{./../bibliography.bib}
+%\addbibresource{./../bibliography.bib}
 
-
+\DeclareCiteCommand{\supercite}[\mkbibsuperscript]
+  {\iffieldundef{prenote}
+     {}
+     {\BibliographyWarning{Ignoring prenote argument}}%
+   \iffieldundef{postnote}
+     {}
+     {\BibliographyWarning{Ignoring postnote argument}}%
+   \bibopenbracket}%
+  {\usebibmacro{citeindex}%
+   \usebibmacro{cite}}
+  {\supercitedelim}
+  {\bibclosebracket}
 
 \usepackage[colorlinks=false,
  pdfpagemode={UseOutlines},
@@ -35,14 +49,23 @@
 %\thesistitle{Vliv pornografie na člověka a společnost}
 \thesissetup{
     author = David Pavlík,
-    advisor = Eduard Pataki,
+    advisor = Mgr. Eduard Pataki,
     title = Vliv pornografie na člověka a společnost,
-    titleEn = The effects of pornography on human and society,
+    titleEn = The Effects of Pornography on Human and Society,
     gender = m,
     university = mu,
     faculty = jaroska,
     type = zmp,
+    thanks = {{Rád bych poděkoval vedoucímu mé práce, Mgr. Eduardu Patakimu, za jeho cenné rady, ochotu a trpělivost při vedení této práce.}},
+    abstract = {{Tato práce si klade za cíl shromáždit dostupné informace ohledně toho, jak pornografie ovlivňuje životy jednotlivců i společnosti jako celku. Snaží se tak na základě empirických studií z pohledu neurobiologie a statistiky. V první části se zaměřuje na téma závislosti, stupňování, impotence, ovlivnění romantických vztahů, depresí a dalších vlivů. V druhé části na ovlivnění násilí ve světe a zacházení s účinkujícími.}},
+    abstractEn = {{The aim of this work was to gather the available information about how pornography affects the lives of individuals and society. It does that on top of empirical studies from the view of neurobiology and statistics. In the first part, it deals with the topic of addiction, escalation, erectile dysfunction, the effects on romantic relationships, depression and other influences. The second part focuses on the effects on violence in the world and the treatment of performers.}},
+    keywords = {{Pornografie, vlivy, sex, kompilace, statistiky}},
+    keywordsEn = {{Pornography, influences, sex, compilation, statistics}}
 }
+
+\renewcommand{\baselinestretch}{1.15}
+
+\counterwithout{figure}{chapter}
 
 
 
@@ -60,6 +83,10 @@
 	showtabs=false,                 % show tabs within strings adding particular underscores
 	escapeinside={\%*}{*)}          % if you want to add a comment within your code
 	}
+
+   \setcounter{secnumdepth}{3}             %number of section to 4
+   \pagenumbering{arabic}                  %start arabic pagination from 1
+   \setcounter{tocdepth}{2}                %number of section in table of contents greater then 33
 
 
 	%<<<paste body here>>>

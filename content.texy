@@ -4,33 +4,37 @@ Ač si to přiznáváme nebo ne, pornografie se čím dál více stává součá
 
 Díky internetu je dnes dostupná, jako nikdy dříve nebyla. Zadarmo. Anonymně. V kteroukoli hodinu.
 
-Mezi 25 nejvíce hledanými pojmy na Googlu v roce 2012 bylo šest týkajících se pornografie. \cite{GoogleSearches2012}
-Jeden z největších pornografických serverů, //PornHub//, zveřejnil, že měl za rok 2014 přes 18 miliard návštěv a 78 miliard zhlédnutí videí \cite{PornHub2014}, to je jedenáct zhlédnutí na každého člověka na Zemi. Z průzkumu ve Spojených státech amerických z roku 2014 vychází, že 63 procent dotazovaných mužů ve věku 18–30 let sleduje pornografii několikrát do týdne. \cite{ProvenMenSurvey2014} Více než třetina chlapců starých 13–14 let, kteří vyplnili v roce 2007 anonymní dotazník na kanadských školách, vidělo pornografická videa „tolikrát, že to ani nelze spočítat“. \cite{AAASSurvey2007} Podle 67 procent mužů a poloviny žen je sledování pornografie přijatelné, říká studie. \cite{AcceptanceSurvey}
+Mezi 25 nejvíce hledanými pojmy na Googlu bylo v roce 2012 pravděpodobně šest týkajících se pornografie. \supercite{GoogleSearches2012}
+Jeden z největších pornografických serverů, //PornHub//, zveřejnil, že měl za rok 2015 přes 21 miliard návštěv a v součtu strávili jeho uživatelé sledováním pornografie více než 500 tisíc let. \supercite{PornHub2015}. Z průzkumu ve Spojených státech amerických z roku 2014 vychází, že 63 procent dotazovaných mužů ve věku 18–30 let sleduje pornografii několikrát do týdne. \supercite{ProvenMenSurvey2014} Více než třetina chlapců starých 13–14 let, kteří vyplnili v roce 2007 anonymní dotazník na kanadských školách, vidělo pornografická videa „tolikrát, že to ani nelze spočítat“. \supercite{AAASSurvey2007} Podle 67 procent mužů a poloviny žen je sledování pornografie přijatelné, říká studie. \supercite{AcceptanceSurvey}
 
-Pornografie ale nemusí být vždy explicitní, vtírá se i jinam. Na billboardech jsou často vyobrazeny polonahé ženy, přestože s produktem vůbec nesouvisí, jen aby upoutaly pozornost. Stejně tak v hudebních videoklipech. V seriálech nejsou neobvyklé sexistické narážky. Nejprodávanější beletristickou knihou roku 2012 byla podle New York Times //Fifty Shades of Grey//. \cite{FiftyShadesNYT}
+Pornografie ale nemusí být vždy explicitní. Na billboardech jsou často vyobrazeny polonahé ženy, jen aby upoutaly pozornost, přestože s produktem vůbec nesouvisí. Stejně tak v hudebních videoklipech. V seriálech nejsou neobvyklé sexistické narážky. Nejprodávanější beletristickou knihou roku 2012 byla podle New York Times //Fifty Shades of Grey//. \supercite{FiftyShadesNYT}
 
-O pornografii se začíná v dnešní době otevřeně hovořit. Začíná být mezi lidmi akceptovatelná. Vzniká seriózní vědecká disciplína //porn studies//. O čem myslíme, že se ale moc nemluví, jsou její nebezpečí a vlivy.
+O pornografii se začíná v dnešní době otevřeně hovořit. Začíná být mezi lidmi akceptovatelná. Vzniká seriózní vědecká disciplína //porn studies//. O čem si myslíme, že se ale moc nemluví, je to, jak nás její sledování ovlivňuje.
 
 
 
 \chapter{Definice}
 
 Předtím, než se pustíme do čehokoli jiného, by bylo vhodné definovat, co to pornografie je.
-Slovo pochází z řečtiny, vzniklo složením slov //porni// (prostitutka) a //graphein// (psát). \cite{Britannica} Pravděpodobně se tak nazývalo psaní o životu prostitutek.
+Slovo pochází z řečtiny, vzniklo složením slov //porni// (prostitutka) a //graphein// (psát). \supercite{Britannica} Pravděpodobně se tak nazývalo psaní o životu prostitutek.
 
 Dnešní význam je ovšem poněkud odlišný a jeho definice není úplně jednoduchá.
 //Všeobecná encyklopedie Universum// definuje pornografii jako:
 \begin{quote}
-Dílo zdůrazňující sexualitu a podněcující vzrušení, které překračuje obecně uznávané normy morálky a slušnosti. \cite{Universum}
+Dílo zdůrazňující sexualitu a podněcující vzrušení, které překračuje obecně uznávané normy morálky a slušnosti. \supercite{Universum}
 \end{quote}
 Avšak jaké jsou ty //obecně uznávané normy morálky a slušnosti//?\\newline
+Podobná je definice //Akademického slovníku cizích slov//
+\begin{quote}
+Zprav. neumělecké zdůraznění sexu v literatuře a umění vybočující z norem konvenční morálky. \supercite{AkademickySlovnik}
+\end{quote}
 //Oxford Dictionary of English// je o něco konkrétnější:
 \begin{quote}
-Tištěný nebo vizuální materiál obsahující explicitní popis nebo zobrazení sexuálních orgánů či aktivit určený pro stimulaci sexuálního vzrušení. \cite{OxfordDictionary}
+Tištěný nebo vizuální materiál obsahující explicitní popis nebo zobrazení sexuálních orgánů či aktivit určený pro stimulaci sexuálního vzrušení. \supercite{OxfordDictionary}
 \end{quote}
 Ještě konkrétnější je //Cambridge British Dictionary//:
 \begin{quote}
-Knihy, časopisy, filmy atd. bez jakékoli umělecké hodnoty, které popisují nebo ukazují sexuální akty či nahé lidi způsobem určeným k sexuálnímu vzrušení \cite{CambridgeDictionary}
+Knihy, časopisy, filmy atd. bez jakékoli umělecké hodnoty, které popisují nebo ukazují sexuální akty či nahé lidi způsobem určeným k sexuálnímu vzrušení. \supercite{CambridgeDictionary}
 \end{quote}
 
 
@@ -41,26 +45,159 @@ Závislost
 
 Závislost na pornografii je velmi kontroverzní téma a jsou lidé, kteří ji odmítají. Zjednodušeně popíšeme důvody, proč by měla být reálná.
 
-Klíčový je tzv. //systém odměn//. Má za úkol nás motivovat k činnostem, které přispívají k přežití (např. jídlo, sex, běh, popř. peníze, výhra). Dělá tak především za pomocí dopaminu. Ten je uvolněn  při některé z dříve zmíněných činností. Ale také, a to hlavně, při pomyšlení na ni. \cite{DopamineGeneral}
+Klíčový je tzv. //systém odměn//. Má za úkol nás motivovat k činnostem, které přispívají k přežití (např. jídlo, sex, běh, popř. peníze, výhra). Dělá tak především za pomocí dopaminu. Ten je uvolněn  při některé ze zmíněných činností. Ale také, a to hlavně, při pomyšlení na ni. \supercite{DopamineGeneral}
 
-Hladina dopaminu se zvýší, kdykoli se setkáme s něčím novým, neobvyklým \cite{DopamineNovelty}, šokujícím, znepokojujícím \cite{DopamineAnxiety} nebo když jsou předčena naše očekávání. \cite{DopamineBetterThanExpectations} Naopak pokud očekávání splněna nejsou, hladina dopaminu poklesne. \cite{DopamineWorseThanExpectations}
+Hladina dopaminu se zvýší, kdykoli se setkáme s něčím novým, neobvyklým \supercite{DopamineNovelty}, šokujícím, znepokojujícím \supercite{DopamineAnxiety} nebo když jsou předčena naše očekávání. \supercite{DopamineBetterThanExpectations} Naopak pokud očekávání splněna nejsou, hladina dopaminu poklesne. \supercite{DopamineWorseThanExpectations}
 
-Vzrušení novostí podporuje i tzv. //Coolidgeův efekt//, který byl testován na myších, ale platí i pro lidi. Do klece byli umístěni samec a samice. Samec kopuloval do té doby, než byl samičkou "znaven". Potom už pokračovat nechtěl, i přesto že samička doléhala. Pokud ale byla samice vyměněna za jinou, okamžitě získal nový zájem. \cite{CoolidgeEffect}
+Vzrušení novostí podporuje i tzv. //Coolidgeův efekt//, který byl testován na myších, ale platí i pro lidi. Do klece byli umístěni samec a samice. Samec kopuloval do té doby, než byl samičkou "znaven". Potom už pokračovat nechtěl, i přesto že samička doléhala. Pokud ale byla samice vyměněna za jinou, okamžitě získal nový zájem. \supercite{CoolidgeEffect}
 
 Nyní to aplikujme na pornografii. Protože internetová pornografie poskytuje bez námahy neomezené množství novosti (čímž se diametrálně liší od pornografie před 20 lety), vyplavuje se nadměrné množství dopaminu, na které mozek není zvyklý. Avšak po čase se tomu přizpůsobí a začne toto množství vyžadovat. A protože si asocioval nápor dopaminu s pornografií, začne se dožadovat právě jí.
 
 Mozek se stane, podobně jako Pavlovovi psi, citlivý na podněty, které souvisí s pornografií. Mohou jimi být např. zapnutí počítače, bytí sám doma, postel či reklama. Při každém takovém podmětu je vyplaven dopamin, který způsobí obrovskou touhu podívat se na pornografii znova.
 
-Nedávná studie ukazuje, že mozková aktivita při sexuálních závislostech se podobá té při závislostech drogových. \cite{BrainActivityLikeDrug}
+Nedávná studie ukazuje, že mozková aktivita při sexuálních závislostech se podobá té při závislostech drogových. \supercite{CSBNeuralStudy}
 
-V posledním vydání světově uznávaného //Diagnostického a statistického manuálu mentálních poruch// (//Diagnostic and Statistical Manual of Mental Disorders//, zkráceně DSM) závislost na pornografii uvedena není.
+Studie vedená doktorem Kühnem nalezla asociaci mezi počtem hodin užívání pornografie týdně a zhoršenými spoji //prefrontálního kortexu// s //ocasatým jádrem//. Autoři poznamenávají, že tento jev je spojen se špatným rozhodováním, jako je nutkavé vyhledávání drog nehledě na potencionální špatné důsledky. \supercite{KuhnGreyMatter}
+
+V posledním vydání široce uznávaného //Diagnostického a statistického manuálu mentálních poruch// (//Diagnostic and Statistical Manual of Mental Disorders//, zkráceně DSM) závislost na pornografii uvedena není.
 
 Stupňování
 ##########
-Proti nepřirozeně vysokým dávkám dopaminu se mozek začne "bránit" snížením počtu dopaminových receptorů typu D2. \cite{DopamineReceptorsDecrease} To, co dříve uspokojovalo, najednou začíná nudit. Dotyčný tak potřebuje více dopaminu, aby pocítil stejný efekt. Toho může docílit buď sledováním pornografie více, nebo posunutím se k "tvrdším žánrům" (protože splňují podmínky pro zvýšení dopaminu zmíněné v minulé kapitole), často se děje obojí.
+Proti nepřirozeně vysokým dávkám dopaminu se mozek začne "bránit" snížením počtu dopaminových receptorů typu D2. \supercite{DopamineReceptorsDecrease} To, co dříve uspokojovalo, najednou začíná nudit. Dotyčný tak potřebuje více dopaminu, aby pocítil stejný efekt. Toho může docílit buď sledováním pornografie více, nebo posunutím se k "tvrdším žánrům" (protože splňují podmínky pro zvýšení dopaminu zmíněné v předchozí kapitole), často se děje obojí.
 
-Tento proces znecitlivění může jen málokterý uživatel popřít. V dotazníků členů skupiny NoFap (lidé, kteří se pokouší přestat s pornografií a masturbací) uvedlo přes 60 procent respondentů, že jejich "sexuální touhy/vkus/záliby" (//sexual tastes//) se postupně stávaly extrémnějšími či deviantními. \cite{NoFapSurvey2012}
+Kühnova studie našla asociaci také mezi hodinami pornografie týdně a menším objemem striata, částí šedé hmoty, která je rozhodující v systému odměn. Menší velikost se projeví menší //dopaminovou odměnou//. Není jasné, zda je snížený objem důsledek nebo příčina sledování pornografie, to první je ale pravděpodobnější. \supercite{KuhnGreyMatter} \supercite{KuhnGreyMatterArticle}
 
-Toto je také důvod, proč může existovat tolik volně dostupného materiálu. Stačí pro začátek, ale se zvyšujícími se nároky, přestává být dostačující.
+Tento proces znecitlivění může jen málokterý uživatel popřít. V dotazníků členů skupiny NoFap (lidé, kteří se pokouší přestat s pornografií a masturbací) uvedlo přes 60 procent respondentů, že jejich "sexuální touhy/vkus/záliby" (//sexual tastes//) se postupně stávaly extrémnějšími či deviantními. \supercite{NoFapSurvey2012}
+
+Toto je také důvod, proč může existovat tolik volně dostupného materiálu. Stačí pro začátek, ale se zvyšujícími se nároky stačit přestává.
 
 Nikdo nezačíná na dětské pornografii a pravděpodobně mu připadá odporná, ale postupem času ho může právě díky efektu eskalace začít vzrušovat.
+
+Impotence a nezájem o sex
+#########################
+Mohlo by se zdát, že pornografie dodá člověku větší touhu po (reálném) sexu. V poslední době se ale ukazuje, že tomu tak úplně není.
+
+//Impotence// či //erektální dysfunkce// (často zkracováno //ED//) bývala problém problém především mužů po čtyřiceti letech.
+
+Do roku 1948 provedl A. Kinsey a jeho tým tisíce rozhovorů s muži ohledně jejich sexuálního chování. Sexuální dysfunkce se podle něj vyskytovala u 1 % mužů pod 19 let, 3 % můžu pod 45 let a 7 % mužů pod 55 let. \supercite{EDPrevalenceKinsey} Jiná americká studie, publikovaná v roce 1984, našla ED u 8 % mužů do 55 let. \supercite{EDPrevalenceBaltimore}. Podobné výsledky měly i 3 nizozemské a jedna německá studie do roku 2002 (viz obrázek \ref{fig:EDPrevalenceDutch}). \supercite{EDPrevalenceDutchFigure}
+
+\begin{figure}[!ht]
+  \centering
+    \includegraphics[width=0.8\textwidth]{''../images/ed-dutch-study.jpg''}
+  \caption{Srovnání výskytu ED podle studií z nizozemských obcí Maarssenbroek (studie ENIGMA, 2002), Krimpen aan den IJssel (2001), Boxmeer (2001) a německého Kolína nad Rýnem (2000). Adapted by permission from Macmillan Publishers Ltd: [International Journal of Impotence Research] \supercite{EDPrevalenceDutchFigure}, copyright 2004}
+  \label{fig:EDPrevalenceDutch}
+\end{figure}
+
+
+Porovnejme to se současným stavem. Brazilská studie z roku 2010 nalezla ED u 35 % mužů ve věku 18-40 let. \supercite{EDPrevalenceBrazil2010} Švýcarská studie z roku 2012 zjistila 30 %. \supercite{EDPrevalenceSwiss2012} Polovina účastníků (16-21 let) kanadského průzkumu z roku 2014 vykázala nějaký sexuální problém (problémy). \supercite{SexualProblemsCanada2014} Každý čtvrtý pacient s ED má podle studie pod 40 let. \supercite{EDOneInFour}
+
+Podle české statistiky z roku 2007 trpí poruchou erekce 54 % mužů ve věku 35-65 let. \supercite{EDPrevalenceCzechStats}
+
+Není jisté, co způsobilo takový nárůst. Jedna z možností je radikální zvýšení dostupnosti pornografie (vysokorychlostní internet, tzv. //tube sites//, chytré mobilní telefony, mobilní internet). Dávalo by to smysl, reálný partner se nemůže porovnávat s nekonečnou plejádou videí. Nezáleží na tom, jak moc dotyčný chce, pokud mozek neuvolní dostatek dopaminu, erekce nenastane, nebo bude jen slabá.
+
+Nedávná případová studie zkoumala 35letého muže, kterého jistá žena přitahovala mentálně, ale ne sexuálně. Neměl žádnou touhu po sexu. Podobně také ve 20 předchozích vztazích. Bylo mu doporučeno přestat s masturbací a pornografií. Po šesti týdnech dodržování těchto omezení zaznamenal první výsledky. Po osmi měsících úspěšně dosáhl orgasmu a ejakulace při sexu. \supercite{EDRebootStudy}
+
+Již dříve zmíněna studie zkoumala 19 dobrovolníků s //kompulzivním sexuálním chováním// (zkráceně //CSB//; často souvisí s užíváním pornografie \supercite{CSB1} \supercite{CSB2}). Průměrný věk byl 25 let. 11 z nich (téměř 60 %) mělo těžkosti s dosahováním erekce s reálnými partnery, ale neměli tento problém při sledování pornografie. \supercite{CSBNeuralStudy}
+
+V již zmiňovaném dotazníku skupiny NoFap uvedlo 21,5 % členů, že se přidali, protože se chtěli zbavit ED. 20,7 % (ze všech) zaznamenalo, že se po opuštění pornografie a masturbace jejich problémy s erekcí zmenšily nebo vymizely úplně. \supercite{NoFapSurvey2014}
+
+Průzkum na italských středních školách rozdělil žáky (okolo 18 let) do tří skupin – ty, kdo nesledují pornografii, ty, kdo ji sledují méně než jednou týdně, a ty ostatní. V první skupině nebylo ani procento lidí se //sníženým zájmem o sex//, ve druhé bylo 6 % a ve skupině pravidelných uživatelů 16 %. \supercite{LowSexDesireForesta}
+
+Ovlivnění vztahů
+################
+Výsledky dotazníku mezi 480 mladými muži ukázaly, že čím více muž pornografii sleduje, tím pravděpodobněji ji používá během sexu, požaduje určité pornografické akty po jeho partnerce, úmyslně si pornografii představuje během sexu, aby udržel vzrušení, a má obavy ohledně jeho sexuálního výkonu a tělesného vzhledu. \supercite{RelationshipsSun}
+
+V roce 1988 byla skupina lidí po šest týdnů vystavována buď //nenásilné pornografii//, nebo //neškodnému obsahu//. Sedmý týden se všichni zúčastnili //zdánlivě nesouvisející// studie na téma //sociální instituce a osobní uspokojení//. Subjekty, které byly vystavovány pornografii, vykázaly menší spokojenost s jejich partnery. \supercite{RelationshipsZillmann}
+
+Jiná studie, skládající se z pěti dílčích studií s konzistentními výsledky, zjistila, že vyšší úroveň užívání pornografie korespondovalo s menším //závazkem// (záměr udržovat vztah a zůstat s ním psychicky spojen \supercite{CommitmentDefinition}). \supercite{RelationshipsWeakerCommitment}
+
+Doktorka Jenifer P. Schneiderová udělala v roce 2000 dotazník mezi devadesáti ženami, jejichž partner byl //kybersexuálně závislý// (zahrnuje pornografii). 68 % z nich prožilo snížení intimnosti s jejich partnerem. Polovina partnerů ztratila zájem o sex. Partnerky cítily zranění, zradu, odmítnutí, opuštění, samotu, hanbu, izolaci, ponížení, naštvání, žárlivost a ztrátu sebevědomí. \supercite{RelationshipsSchneider}
+
+Ostatní
+#######
+Studie z roku 2005 našla významnou asociaci mezi užíváním internetové pornografie a osamělostí. \supercite{Loneliness}
+
+Konzumenti pornografie online mají podle jiné studie z roku 2005 oproti konzumentů offline pornografie větší pravděpodobnost klinických příznaků deprese. \supercite{DepressionYbarra}
+
+Doktor Skinner udělal v roce 2011 dotazník za zjištěním vztahu mezi sledováním pornografie a depresemi. Hodnota úrovně depresí na stupnici //PHQ-9// (The Patient Health Questionnaire) byla průměrně 6,5. U těch, kteří sledovali pornografii 3-5 krát týdně, průměrně 15 (mírně až středně závažná deprese). A u těch, kteří ji sledovali každý den, více než 21 (závažná deprese). \supercite{DepressionSkinner} \supercite{DepressionPHQ9}
+
+Belgická studie ve dvou vlnách porovnávala známky chlapců (12-15 let) ve škole a frekvenci užívání pornografie. Ukázalo se, že těm, kteří sledovali pornografii v druhé vlně (o šest měsíců později) častěji než v té první, se také zhoršily známky. \supercite{AcademicPerformance}
+
+Jiná studie zkoumala spojitost mezi užíváním pornografie a schopností čekat na něco hodnotnějšího (tj. jestli byste dali přednost např. tisícikoruně teď, nebo milionu za deset let). Čím více pornografie účastníci konzumovali, tím menší hodnotu přiřazovali odměnám v budoucnosti, přestože byly objektivně hodnotnější. V experimentální části studie rozdělili uživatele pornografie do dvou skupin – první abstinovala od pornografie a druhá od svého oblíbeného jídla. Po třech týdnech projevila skupina, která abstinovala od pornografie, větší zájem o pozdější ale hodnotnější odměny než ta druhá. \supercite{DelayDiscounting}
+
+Lidé, kteří přestali sledovat pornografii (např. členové již zmiňovaného NoFapu) často hlásí také změny, které ještě žádná studie neprozkoumala, jako více energie, motivace nebo to, že si jich opačné pohlaví častěji všímá (viz obrázek \ref{fig:NoFap2014Differences}).
+
+
+\begin{figure}[!ht]
+  \caption{Odpověď na otázku //Co se změnilo po tom, co jste přestali sledovat pornografii a masturbovat// (v procentech). \supercite{NoFapSurvey2014}}
+  \centering
+    \vspace{-0.5cm}\includegraphics[width=\textwidth]{''../images/nofap.pdf''}
+  \label{fig:NoFap2014Differences}
+\end{figure}
+
+
+\chapter{Vliv pornografie na společnost}
+
+Násilí
+######
+Známý je výrok Robin Morganové //"Pornografie je teorie, znásilnění praxe"//. \supercite{RobinMorgan} Jiní argumentují, že //deviantní jedinci si naopak vystačí s pornografií//. Které tvrzení je pravdivé je pořád ještě otázkou. Jsou zjištění, která potvrzují, že i nenásilná pornografie vede k větší agresivitě a sklonům k násilí. Na druhou stranu nevíme o žádné studii, která by prokázala přímou souvislost mezi sledováním pornografie a samotným násilným činem.
+
+Z výsledků průzkumu mezi mladými Američany (10-15 let) vychází, že sledování násilné pornografie bylo spojeno s až 6krát větší pravděpodobností sexuálně agresivního chování. Naopak s nenásilnou pornografií nebylo statisticky významné spojení nalezeno. \supercite{ViolenceYbarra}
+
+Jiný průzkum, mezi univerzitními studenty, zjistil korelaci mezi větším užíváním pornografie a //pozitivnějším// postojem ke znásilnění. Častější uživatelé pornografie měli také více sexuálních partnerů. \supercite{ViolenceMass}
+
+Studie z roku 2000 podporuje existenci //spolehlivé asociace// mezi častým užíváním pornografie a sexuálně agresivním chováním, zvláště pak u násilné pornografie a/nebo mužů se sklonům k sexuální agresi. Autoři poznamenávají, že to, jak relativně agresivní muži reagují na tu stejnou pornografii, se může odlišovat od toho, jak na ni reagují neagresivní muži. \supercite{ViolenceMalamuth}
+
+Ve studii z roku 1992 vyplnilo 187 studentek na univerzitě dotazník ohledně jejich expozice pornografii v dětství, současnými sexuálními fantaziemi a názoru na znásilnění. Expozice pornografii v brzkém věku souvisela s následnými představami znásilnění a postojem podporující sexuální násilí na ženách. \supercite{ViolenceCorne}
+
+Japonská studie rozdělila 150 studentů (mužů) do 3 skupin -- první dvě zhlédly pornografický film znázorňující znásilnění, v prvním projevila oběť potěšení, ve druhém bolest a žal, třetí skupina zhlédla //běžný pornografický film//. První skupina měla v následném dotazníku podstatně větší procento zastoupení názoru, že ženy si mohou znásilnění užívat. \supercite{ViolenceJapaneseGuys} Toto zjištění je hodnotné především v kombinaci s jinou studií. Ta v roce 2010 zkoumala 300 populárních pornografických scén. 88 % z nich obsahovalo fyzickou a 48 % verbální agresi (převážně urážky). V 97 % případů na to žena reagovala buď neutrálně nebo kladně (s potěšením). \supercite{ViolenceInPorn}
+
+Podle nizozemské studie byla expozice sexuálně explicitnímu materiálu spojena s přesvědčením, že ženy jsou //sexuální objekty//. \supercite{WomenSexObjects}
+
+Profesor Berl Kutchinsky je znám pro své studie porovnávající dostupnost pornografie a výši kriminality ve čtyřech zemích -- Dánsku, Švédsku, Spolkové republice Německo a USA. První tři zmíněné státy legalizovaly pornografii v letech 1969, respektive 1970 a 1973, a následně zaznamenaly pokles kriminality. V USA naopak počet znásilnění v 70. a 80. letech, //zlaté době pornografie v USA// \supercite{GoldenAgeOfPorn}, vzrostl. \supercite{ViolenceDiamond}
+
+Pro nás je zajímavá situace v České republice. Zde byla pornografie legalizována v roce 1989. Projevilo se to okamžitým propadem počtu sexuálního zneužívání dětí. Naopak ovšem po revoluci rychle vzrostl počet znásilnění (minimálně počet jejich nahlášení), potom postupně klesal. \supercite{ViolenceCzechia} Viz obrázek \ref{fig:ViolenceCzech}.
+
+\begin{figure}[!ht]
+  \centering
+    \includegraphics[width=0.8\textwidth]{''../images/violence-czech.jpg''}
+  \caption{Počet nahlášených znásilnění, sexuálního zneužívání dětí a //menších sexuálních trestných činů// (např. obnažování se na veřejnosti) v ČR v letech 1971-2007. Užito se svolením autora. \supercite{ViolenceCzechia}}
+  \label{fig:ViolenceCzech}
+\end{figure}
+
+Zneužívání účinkujících
+#######################
+K tomuto tématu nelze napsat mnoho objektivního. Mnoho bývalých pornohereček vystupuje a mluví o svých děsivých zážitcích. Na straně druhé zde jsou současné herečky, které tvrdí, jak si svoji práci užívají.
+
+Průzkum na dvou kalifornských klinikách sledoval současné pornoherečky. Výsledky odhalily, že: \supercite{PornActressesUCLA}
+
+- 69 % nepoužilo za posledních 30 dní na scéně kondom
+- 10 % bylo fyzicky ublíženo
+- 13 % byly nuceno dělat věci, které nechtěly
+- 16 % nebylo na konci natáčení zaplaceno
+- za poslední tři měsíce užilo
+  - 58 % marihuanu
+  - 20 % kokain
+  - 18 % extázi
+  - 5 % LSD
+  - 2 % heroin
+- 11 % mělo kapavku
+- 15 % mělo chlamydie
+
+Podle studie mělo 177 pornohereček oproti běžné populaci větší sebevědomí, sexuální uspokojení a pozitivnější pocity. Také se pravděpodobněji identifikovaly jako bisexuálové, měly první sex dříve, měly více sexuálních partnerů, užívaly v minulosti drogy a více se bály, že chytí nějakou z pohlavně přenosných nemocí. \supercite{PornActressesGriffith}
+
+Je také důležité zmínit, že ne všechny ženy točí pornografii dobrovolně, některé jsou novodobé sexuální otrokyně, se kterými je obchodováno.
+
+
+
+\chapter{Závěr}
+
+V této práci jsme se zabývali tím, jestli existuje závislost na pornografii, čím je způsobeno vyhledávání stále "tvrdších žánrů", zda je možné, že je pornografie příčinou neschopnosti mladých mužů dosáhnout erekce, a jaký má vliv na vztahy mezi partnery. Také jsme hledali souvislost mezi pornografií a násilím ve světě. Okrajově jsou zmíněna témata depresí, osamělosti, vztahu k opačnému pohlaví nebo vlivu na samotné účinkující.
+
+Dospěli jsme k závěru, že pornografie není neškodná. Přestože její vliv na společnost jako celek může být sporný, desítky studií prokázaly její negativní vliv na různé oblasti lidského života. Je ale na každém člověku, aby se rozhodl, co je pro něho výhodnější.
+
+Přestože již existují spousty studií zabývajících se pornografií, jde pořád o mladou disciplínu a je zde ještě mnoho, co je třeba prozkoumat.
+
+Tato práce citovala pouze studie, které jsou buď zdarma, nebo se odkazovala na jejich abstrakt, aby si každý mohl pravdivost tvrzení ověřit. Je zde ovšem také množství placených prací, které zkoumají pornografii a stojí za pozornost.
+
+Cílem této práce bylo přinést empirické důkazy o vlivu pornografie, existují ale také tisíce svědectví lidí, které pornografie ovlivnila. Jsou k nalezení například na internetových fórech NoFap ([reddit.com/r/nofap](https://www.reddit.com/r/nofap) a [nofap.com/forum](http://www.nofap.com/forum)), Your Brain Rebalanced ([yourbrainrebalanced.com](http://www.yourbrainrebalanced.com)) nebo Reboot Nation ([rebootnation.org/forum](http://www.rebootnation.org/forum)).
